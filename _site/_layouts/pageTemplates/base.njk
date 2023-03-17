@@ -1,5 +1,5 @@
 ---
-siteTitle: Alejandro Cardena Portfolio
+siteTitle: Alejandro Cardena's Portfolio
 
 ---
 <!doctype html>
@@ -9,8 +9,8 @@ siteTitle: Alejandro Cardena Portfolio
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{siteTitle}}: {{title}}</title>
-    <meta name="description" content="">
+    <title>Alejandro Cardena: {{title}}</title>
+    <meta name="description" content="Alejandro Cardena's Portfolio">
 
     <meta property="og:title" content="">
     <meta property="og:type" content="">
@@ -26,14 +26,35 @@ siteTitle: Alejandro Cardena Portfolio
     </head>
   <body>
     <header class="site-header">
-      {% include "navigation.njk" %}
-    </header>
+      
+      <nav class="site-nav">
+        <div class="logo">
+          <a href="/">Alejandro Cardena</a>
+        </div>
+        <a href="#" class="hamburger" id="nav-toggle"><span></span></a>
+        <div class="links" id="nav-links">
+          <a href="/">About</a>
+          <a href="/projects">Projects</a>
+          <a href="/resume">Resume</a>
+        </div>
+      </nav>
   
-  <main class="main page-content">{{ content | safe }}</main>
+    </header>
+  <main class="main page-content" id="main">
+    {{ content | safe }}
+  </main>
 
-    <footer class="site-footer">
-      <!-- Add your footer content here -->
-    </footer>
+  <footer class="site-footer">
+    <!-- add site-wide footer content here -->
+    <div class="footer-icon">
+      <a href="https://www.linkedin.com/in/alejandro-cardena-846bb8251/"><img src="images/linkedin-icon.png"
+          alt="linkedin-icon"></a>
+    </div>
+
+    <div class="copyright">
+      &copy 2023 Alejandro Cardena
+    </div>
+  </footer>
   
     <!-- Load CDN version of jQuery. For other versions visit this page: https://code.jquery.com/jquery/ -->
     <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
