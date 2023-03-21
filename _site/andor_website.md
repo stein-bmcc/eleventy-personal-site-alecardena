@@ -7,10 +7,6 @@ tags:
   - Project
 ---
 
-# Andor Website
-
-# {{title}}
-
 <div class="project_images">
   <img src="/images/andor_about_page.jpg" alt="andor_about_page">
 </div>
