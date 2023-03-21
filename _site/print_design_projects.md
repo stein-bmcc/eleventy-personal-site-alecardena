@@ -3,8 +3,7 @@ title: Print Design Projects
 date: Created
 layout: base
 tags:
-  - Print
-  - Design
+  - Print design
   - Projects
 ---
 

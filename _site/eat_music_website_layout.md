@@ -3,7 +3,7 @@ title: EAT Music Website Layout
 date: Created
 layout: base
 tags:
-  - Web
+  - Web development
   - Project
 ---
 

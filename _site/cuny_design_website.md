@@ -3,7 +3,7 @@ title: CUNY Design Website
 date: Created
 layout: base
 tags:
-  - Web
+  - Web development
   - Project
 ---
 

@@ -3,7 +3,7 @@ title: Andor Website
 date: Created
 layout: base
 tags:
-  - Web
+  - Web development
   - Project
 ---
 
@@ -35,4 +35,3 @@ tags:
       Link to Website: <a href="https://alecardena.github.io/mmp240/midterm/index.html">https://alecardena.github.io/mmp240/midterm/index.html</a>  
   </p>
 </div>
-

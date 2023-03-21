@@ -3,7 +3,7 @@ title: Web Development Projects
 date: Created
 layout: base
 tags:
-  - Web
+  - Web development
   - Projects
 ---
 

@@ -3,8 +3,7 @@ title: Mars Exploration Poster
 date: Created
 layout: base
 tags:
-  - Print
-  - Design
+  - Print design
   - Project
 ---
 

@@ -3,8 +3,7 @@ title: Welcome
 date: Created
 layout: base
 tags:
-  - Print
-  - Design
+  - Print design
   - Project
 ---
 

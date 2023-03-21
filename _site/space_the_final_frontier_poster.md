@@ -3,8 +3,7 @@ title: Space The Final Frontier Poster
 date: Created
 layout: base
 tags:
-  - Print
-  - Design
+  - Print design
   - Project
 ---
 

@@ -3,8 +3,7 @@ title: Surrealism Postcard
 date: Created
 layout: base
 tags:
-  - Print
-  - Design
+  - Print design
   - Project
 ---
 

@@ -8,7 +8,6 @@ tags:
   - info
 ---
 
-<!-- add main page content here -->
 <div class="main_homepage_title">
   <h2>I'm Alejandro. Aspiring UX Designer & Front-End Developer</h2>
 </div>
@@ -66,4 +65,3 @@ tags:
   </article>
 
 </section>
-
