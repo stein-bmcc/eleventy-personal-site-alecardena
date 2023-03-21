@@ -12,7 +12,7 @@ tags:
 # {{title}}
 
 <div class="project_images">
-  <img src="images/andor_about_page.jpg" alt="andor_about_page">
+  <img src="/images/andor_about_page.jpg" alt="andor_about_page">
 </div>
 
 <div class="project_bio">

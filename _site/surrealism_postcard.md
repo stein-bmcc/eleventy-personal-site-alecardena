@@ -8,8 +8,8 @@ tags:
 ---
 
 <div class="surrealism_project_images">
-    <img src="images/surrealism_postcard_front.jpg" alt="surrealism_postcard_front">
-    <img src="images/surrealism_postcard_back.jpg" alt="surrealism_postcard_back">
+    <img src="/images/surrealism_postcard_front.jpg" alt="surrealism_postcard_front">
+    <img src="/images/surrealism_postcard_back.jpg" alt="surrealism_postcard_back">
 </div>
 
 <div class="project_bio">

@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="project_images">
-    <img src="images/mars_exploration_poster.jpg" alt="mars_exploration_poster">
+    <img src="/images/mars_exploration_poster.jpg" alt="mars_exploration_poster">
  </div>
  
  <div class="project_bio">

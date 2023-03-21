@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="project_images">
-    <img src="images/the_gallery_website_home_page.png" alt="the_gallery_website_home_page">
+    <img src="/images/the_gallery_website_home_page.png" alt="the_gallery_website_home_page">
  </div>
 
  <div class="project_bio">

@@ -8,14 +8,14 @@ tags:
 ---
 
 <div class="eat_music_project_images">
-    <img src="images/eat_music_home_page.jpg" alt="eat_music_home_page">
-    <img src="images/eat_music_home_page_wireframe.jpg" alt="eat_music_home_page_wireframe">
-    <img src="images/eat_music_podcast_page.jpg" alt="eat_music_podcast_page">
-    <img src="images/eat_music_podcast_page_wireframe.jpg" alt="eat_music_podcast_page_wireframe">
-    <img src="images/eat_music_explore_page.jpg" alt="eat_music_explore_page">
-    <img src="images/eat_music_explore_page_wireframe.jpg" alt="eat_music_explore_page_wireframe">
-    <img src="images/eat_music_account_page.jpg" alt="eat_music_account_page">
-    <img src="images/eat_music_account_page_wireframe.jpg" alt="eat_music_account_page_wireframe">
+    <img src="/images/eat_music_home_page.jpg" alt="eat_music_home_page">
+    <img src="/images/eat_music_home_page_wireframe.jpg" alt="eat_music_home_page_wireframe">
+    <img src="/images/eat_music_podcast_page.jpg" alt="eat_music_podcast_page">
+    <img src="/images/eat_music_podcast_page_wireframe.jpg" alt="eat_music_podcast_page_wireframe">
+    <img src="/images/eat_music_explore_page.jpg" alt="eat_music_explore_page">
+    <img src="/images/eat_music_explore_page_wireframe.jpg" alt="eat_music_explore_page_wireframe">
+    <img src="/images/eat_music_account_page.jpg" alt="eat_music_account_page">
+    <img src="/images/eat_music_account_page_wireframe.jpg" alt="eat_music_account_page_wireframe">
 </div>
 
 <div class="project_bio">

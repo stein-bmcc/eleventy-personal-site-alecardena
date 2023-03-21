@@ -10,7 +10,7 @@ tags:
 <div class="videoWrapper ratio-16-9">
 
     <!-- iframe below is Copy & Pasted from YouTube replace with your own -->
-    <iframe width="853" height="480" src="images/the_adventures_of_kron_the_penguin_animation.mp4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="/images/the_adventures_of_kron_the_penguin_animation.mp4" frameborder="0" allowfullscreen></iframe>
 
 </div><!-- end .videoWrapper -->
 

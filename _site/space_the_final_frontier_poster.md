@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="project_images">
-    <img src="images/space_the_final_frontier_poster.jpg" alt="space_the_final_frontier_poster">
+    <img src="/images/space_the_final_frontier_poster.jpg" alt="space_the_final_frontier_poster">
  </div>
 
  <div class="project_bio">
