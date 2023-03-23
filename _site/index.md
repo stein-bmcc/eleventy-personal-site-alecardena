@@ -4,7 +4,6 @@ date: Created
 layout: base
 tags:
   - home
-  - welcome
   - info
 ---
 
