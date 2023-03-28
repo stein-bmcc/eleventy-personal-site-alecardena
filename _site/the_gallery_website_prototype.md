@@ -33,6 +33,6 @@ tags:
     </p>
 
     <div class="back_function">
-        <a href="web_development_projects.md">Back to Projects</a>
+        <a href="/web_development_projects.md">Back to Projects</a>
     </div>
  </div>

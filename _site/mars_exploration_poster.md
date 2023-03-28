@@ -24,6 +24,6 @@ tags:
         Created this space-theme poster by using Illustrator and Photoshop.
     </p>
     <div class="back_function">
-        <a href="print_design_projects.md">Back to Projects</a>
+        <a href="/print_design_projects.md">Back to Projects</a>
     </div>
  </div>

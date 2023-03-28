@@ -24,6 +24,6 @@ tags:
     </p>
 
     <div class="back_function">
-        <a href="print_design_projects.md">Back to Projects</a>
+        <a href="/print_design_projects.md">Back to Projects</a>
     </div>
  </div>

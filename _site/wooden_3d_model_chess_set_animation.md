@@ -28,6 +28,6 @@ tags:
     </p>
 
     <div class="back_function">
-        <a href="animation_projects.md">Back to Projects</a>
+        <a href="/animation_projects.md">Back to Projects</a>
     </div>
 </div>
