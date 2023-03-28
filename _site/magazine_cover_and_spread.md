@@ -28,4 +28,8 @@ tags:
         For this project, I created a fictional gaming and Star Wars centered magazine 
         cover and spread with InDesign and Photoshop.
     </p>
+    
+    <div class="back_function">
+        <a href="print_design_projects.md">Back to Projects</a>
+    </div>
 </div>

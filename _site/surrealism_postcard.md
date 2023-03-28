@@ -31,4 +31,8 @@ tags:
         each painting in a frame to make it look more real. The font and color I choses 
         I feel goes along with that time period and put everything together.
     </p>
+
+    <div class="back_function">
+        <a href="print_design_projects.md">Back to Projects</a>
+    </div>
 </div>

@@ -26,4 +26,8 @@ tags:
         This is a 3D wooden model chess set that I created using Cinema 4D. I also used 
         Cinema 4D to render the pieces and move them around the chess board. 
     </p>
+
+    <div class="back_function">
+        <a href="animation_projects.md">Back to Projects</a>
+    </div>
 </div>

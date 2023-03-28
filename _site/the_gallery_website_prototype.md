@@ -31,4 +31,8 @@ tags:
     <p>
         Link to Website: <a href="https://www.figma.com/file/IbqdcRNEottTG2sea2o2JZ/%E2%80%9CThe-Gallery%E2%80%9D-Website-Prototype?node-id=0%3A1&t=Agpu6d1a0aF5SGDa-1">https://www.figma.com/file/IbqdcRNEottTG2sea2o2JZ/%E2%80%9CThe-Gallery%E2%80%9D-Website-Prototype?node-id=0%3A1&t=Agpu6d1a0aF5SGDa-1</a>  
     </p>
+
+    <div class="back_function">
+        <a href="web_development_projects.md">Back to Projects</a>
+    </div>
  </div>

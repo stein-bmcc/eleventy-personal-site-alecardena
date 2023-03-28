@@ -25,4 +25,8 @@ tags:
     <p>
         This is a 3D animation I created of Pac-man and his enemies. I modeled, animated, and rendered everything in Cinema 4D.
     </p>
+
+    <div class="back_function">
+        <a href="animation_projects.md">Back to Projects</a>
+    </div>
 </div>

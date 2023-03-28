@@ -30,4 +30,8 @@ tags:
   <p>
       Link to Website: <a href="https://alecardena.github.io/mmp240/midterm/index.html">https://alecardena.github.io/mmp240/midterm/index.html</a>  
   </p>
+
+  <div class="back_function">
+    <a href="web_development_projects.md">Back to Projects</a>
+</div>
 </div>

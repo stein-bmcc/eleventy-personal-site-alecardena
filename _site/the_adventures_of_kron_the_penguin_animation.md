@@ -27,4 +27,8 @@ tags:
         Animate I came up with the story and character design. Once the animation was 
         completed I created the soundtrack with Audacity.
     </p>
+
+    <div class="back_function">
+        <a href="animation_projects.md">Back to Projects</a>
+    </div>
 </div>

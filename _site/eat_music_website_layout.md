@@ -32,4 +32,8 @@ tags:
         website. I was in charge of creating the wireframes and mock-ups. I used Figma to do so. I also
         used Photoshop to edit some of the images.
     </p>
+
+    <div class="back_function">
+        <a href="web_development_projects.md">Back to Projects</a>
+    </div>
 </div>
