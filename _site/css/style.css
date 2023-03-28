@@ -287,6 +287,10 @@ video {
   -moz-box-shadow: 8px 5px 30px 0px rgba(0, 0, 0, 0.44);
 }
 
+.card__header{
+  font-size: 26px;
+}
+
 h1,
 h2 {
   color: black;
