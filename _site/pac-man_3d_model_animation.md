@@ -23,7 +23,12 @@ tags:
      </p>
 
     <p>
-        This is a 3D animation I created of Pac-man and his enemies. I modeled, animated, and rendered everything in Cinema 4D.
+        In my animation class, I created a dynamic 3D animation featuring Pac-man and his iconic enemies. 
+        Utilizing Cinema 4D, I skillfully modeled, animated, and rendered each character to bring them to 
+        life. The attention to detail in each movement and facial expression adds depth to the characters 
+        and makes them truly captivating to watch. The use of 3D technology allowed me to create a visually 
+        engaging and immersive experience for the viewer. Overall, this project was an exciting opportunity 
+        to flex my animation skills and showcase my creativity.
     </p>
 
     <div class="back_function">

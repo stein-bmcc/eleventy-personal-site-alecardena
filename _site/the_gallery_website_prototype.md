@@ -20,16 +20,18 @@ tags:
     </p>
 
     <p>
-        Created a UI outline of an e-commerce art website using Figma. The concept for “The Gallery” 
-        website - which I came up with - is to provide a digital space where people can buy a variety 
-        of artworks - such as pottery, posters, paintings etc.It also allows the customer to see the 
-        artists’ portfolio and to interact with them. I created a prototype with Figma, as well as a 
-        project proposal outlining the concept and development process. Below is a link to the figma 
-        that has a prototype, wireframe, and site map
+        In my Multimedia class, I designed a user interface for an e-commerce art 
+        website called "The Gallery" using Figma. My concept was to create a platform 
+        where people can purchase a diverse range of artworks including pottery, 
+        posters, paintings, and more. The website also features artist portfolios 
+        and interactive features to connect customers with the artists. I created a 
+        comprehensive project proposal outlining the development process and created 
+        a prototype, wireframe, and site map using Figma. Check out the link below to 
+        see the complete design and layout.
     </p>
 
     <p>
-        Link to Website: <a href="https://www.figma.com/file/IbqdcRNEottTG2sea2o2JZ/%E2%80%9CThe-Gallery%E2%80%9D-Website-Prototype?node-id=0%3A1&t=Agpu6d1a0aF5SGDa-1">https://www.figma.com/file/IbqdcRNEottTG2sea2o2JZ/%E2%80%9CThe-Gallery%E2%80%9D-Website-Prototype?node-id=0%3A1&t=Agpu6d1a0aF5SGDa-1</a>  
+        <strong>Link to Figma: <a href="https://www.figma.com/file/IbqdcRNEottTG2sea2o2JZ/%E2%80%9CThe-Gallery%E2%80%9D-Website-Prototype?node-id=0%3A1&t=Agpu6d1a0aF5SGDa-1">https://www.figma.com/file/IbqdcRNEottTG2sea2o2JZ/%E2%80%9CThe-Gallery%E2%80%9D-Website-Prototype?node-id=0%3A1&t=Agpu6d1a0aF5SGDa-1</a></strong>
     </p>
 
     <div class="back_function">

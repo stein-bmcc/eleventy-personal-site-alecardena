@@ -12,7 +12,7 @@ tags:
 </div>
 
 <div class="project_bio">
-  <h2>Andor Website</h2>
+  <h2>“Andor” Website</h2>
   <p>
       2022
       <br>
@@ -21,14 +21,17 @@ tags:
 
 
   <p>
-      I created this website around “Andor” - a series I love. My goal was to 
-      create a clear About page and Episodes’ guide. I started by prototyping 
-      the layout on Figma and translated it into a functional HTML/CSS/JS page 
-      with Atom. Below is a link to the website.
+    For my web design class, I created a website dedicated to the "Andor" series that 
+    I love. The website aims to provide a clear and comprehensive About page and Episodes' 
+    guide for fans of the show. To achieve this, I first prototyped the layout using Figma 
+    and then translated it into a functional web page using HTML, CSS, and JS with Atom. 
+    The design and layout were carefully thought out to enhance the user experience and 
+    create an immersive environment for fans of the show. Check out the link below to see 
+    the working website.
   </p>
 
   <p>
-      Link to Website: <a href="https://alecardena.github.io/mmp240/midterm/index.html">https://alecardena.github.io/mmp240/midterm/index.html</a>  
+      <strong>Link to Website: <a href="https://alecardena.github.io/mmp240/midterm/index.html">https://alecardena.github.io/mmp240/midterm/index.html</a></strong>  
   </p>
 
   <div class="back_function">

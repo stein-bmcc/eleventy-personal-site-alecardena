@@ -20,14 +20,17 @@ tags:
     </p>
 
     <p>
-        I created this responsive website for CUNY Design. Its goal is to provide 
-        information about different Design-related programs within CUNY. I created 
-        this website using the code editing software Atom, alongside Figma I also 
-        used Photoshop to edit images. Below is a link to the website.
+        In my Web Design class, I created a responsive website for CUNY Design, which aims to 
+        inform visitors about the various Design-related programs offered by the City University 
+        of New York. Using Figma, I designed the website's layout and then coded it in Atom, 
+        ensuring it was optimized for multiple devices. To enhance the website's visual appeal, 
+        I used Photoshop to edit images. The website provides an easy-to-navigate platform for 
+        users to learn about the different programs, their requirements, and outcomes. Click on 
+        the link below to view the website.
     </p>
 
     <p>
-        Link to Website: <a href="https://alecardena.github.io/mmp240/final/index.html ">https://alecardena.github.io/mmp240/final/index.html</a>  
+        <strong>Link to Website: <a href="https://alecardena.github.io/mmp240/final/index.html ">https://alecardena.github.io/mmp240/final/index.html</a></strong>  
     </p>
 
     <div class="back_function">

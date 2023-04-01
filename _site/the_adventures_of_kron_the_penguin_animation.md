@@ -23,9 +23,11 @@ tags:
      </p>
 
     <p>
-        For this project, I had to create a 2-D sketch character animation with Adobe 
-        Animate I came up with the story and character design. Once the animation was 
-        completed I created the soundtrack with Audacity.
+        For this project in my animation class, I was tasked with creating a 2D character animation 
+        using Adobe Animate. I decided to create an original character design and story to bring to 
+        life. After completing the animation, I used Audacity to create a custom soundtrack that 
+        complemented the animation's visuals and mood. The final product was a cohesive and engaging 
+        animation that showcased my skills in both design and sound production.
     </p>
 
     <div class="back_function">

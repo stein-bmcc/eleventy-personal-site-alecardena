@@ -23,8 +23,13 @@ tags:
      </p>
 
     <p>
-        This is a 3D wooden model chess set that I created using Cinema 4D. I also used 
-        Cinema 4D to render the pieces and move them around the chess board. 
+        I created this beautifully crafted 3D wooden model chess set that I developed as part of my 
+        animation class. Utilizing the advanced features of Cinema 4D, I designed this exquisite chess 
+        set with meticulous attention to detail, ensuring that every aspect of the set, from the texture 
+        of the wood to the intricate carving of the pieces, was carefully considered. Using the same 
+        software, I also rendered the individual pieces, enabling them to move seamlessly around the 
+        board in a stunning 3D environment. Through this project, I have honed my skills in 3D modeling 
+        and animation, and I am excited to share the results of my hard work with the world.
     </p>
 
     <div class="back_function">

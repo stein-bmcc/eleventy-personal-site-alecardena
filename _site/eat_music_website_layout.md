@@ -27,10 +27,16 @@ tags:
     </p>
 
     <p>
-        For this project, I was part of a group tasked with creating a business model, ad, storyboard,
-        wireframe, and mock-up for a streaming service. We chose to create an affordable music-streaming
-        website. I was in charge of creating the wireframes and mock-ups. I used Figma to do so. I also
-        used Photoshop to edit some of the images.
+        As part of a dynamic class group project, we were challenged to create a comprehensive 
+        business model, ad, storyboard, wireframe, and mock-up for a cutting-edge streaming 
+        service. After careful consideration, we decided to develop an affordable music-streaming 
+        website that would appeal to a wide range of users. I was responsible for creating the 
+        wireframes and mock-ups, utilizing Figma to bring my ideas to life. To ensure the highest 
+        level of quality and attention to detail, I also used Photoshop to edit some of the images, 
+        resulting in a visually stunning and user-friendly website that would provide a seamless 
+        music-streaming experience for our target audience. Overall, this project allowed me to 
+        strengthen my design skills and collaborate effectively within a team to bring our collective 
+        vision to fruition.
     </p>
 
     <div class="back_function">

@@ -18,21 +18,23 @@ tags:
   <h2>Bio:</h2>
 
   <p>
-    Hi everyone! My name is Alejandro Cardena. I grew up and lived in
-    New York City my whole life. I am the first in my family to go to
-    college. My career goal is to become a UX designer/ front-end developer.
-    I am always looking to grow as a designer and developer and to learn
-    new skills.
+    Hello there! I'm Alejandro Cardena, a New York City native and a first-generation college student. 
+    Aspiring to be a UX designer/Front-end developer, I am passionate about designing user-friendly 
+    interfaces that enhance the user experience. My goal is to continuously improve my skills and stay 
+    up-to-date with the latest design trends and technologies. I believe that design is not just about 
+    aesthetics, but also about creating products that solve real-world problems and make a positive 
+    impact on people's lives. Let's connect and collaborate to create something amazing!
   </p>
 
   <h2>Experience & Skills:</h2>
 
   <p>
-    I have used the Adobe Suite to create photomontages, illustrations,magazine
-    spreads, and posters. I have also created several websites using different
-    coding languages and platforms, including HTML, CSS, JavaScript and GitHub.
-    I have also created different types of animation using Animate, After Effects,
-    and Cinema 4D.
+    Throughout my creative journey, I have honed my skills in various software and coding languages. I have 
+    a deep understanding of the Adobe Suite and have utilized it to produce captivating photomontages, 
+    illustrations, magazine spreads, and posters. Additionally, I have demonstrated proficiency in website 
+    creation using HTML, CSS, JavaScript, and GitHub. I have also explored the world of animation, utilizing 
+    programs such as Animate, After Effects, and Cinema 4D to bring my ideas to life. My diverse skill set 
+    enables me to approach each project with a unique perspective and to craft memorable visuals and experiences.
   </p>
 </div>
 
