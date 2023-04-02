@@ -7,7 +7,7 @@ tags:
   - Project
 ---
 
-<div class="project_images">
+<div class="project_images_2">
     <img src="/images/the_gallery_website_home_page.png" alt="the_gallery_website_home_page">
  </div>
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="project_images">
-    <img src="/images/cuny_design_home_page.jpg" alt="cuny_design_home_page">
+    <img src="/images/cuny_design_home_page.png" alt="cuny_design_home_page">
  </div>
 
  <div class="project_bio">

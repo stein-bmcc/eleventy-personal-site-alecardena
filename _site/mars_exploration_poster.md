@@ -7,8 +7,8 @@ tags:
   - Project
 ---
 
-<div class="project_images">
-    <img src="/images/mars_exploration_poster.jpg" alt="mars_exploration_poster">
+<div class="project_images_2">
+    <img src="/images/mars_exploration_poster.png" alt="mars_exploration_poster">
  </div>
  
  <div class="project_bio">

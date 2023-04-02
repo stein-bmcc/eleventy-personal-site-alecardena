@@ -54,6 +54,11 @@ h2 {
   text-align: center;
 }
 
+.project_images_2 {
+  width: 100%;
+  margin: auto;
+}
+
 .project_bio {
   text-align: center;
 }
@@ -70,7 +75,7 @@ h2 {
 
 /*homepage main title*/
 .main_homepage_title h2 {
-  font-size: 20px;
+  font-size: 25px;
   font-style: italic;
 }
 
@@ -417,6 +422,11 @@ h2 {
 
   .main_homepage_title h2 {
     font-size: 50px;
+  }
+
+  .project_images_2 {
+    width: 80%;
+    margin: auto;
   }
 }
 
