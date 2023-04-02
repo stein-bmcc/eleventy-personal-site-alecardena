@@ -22,7 +22,7 @@ tags:
     <div class="card__img"><img src="/images/mars_exploration_poster_profile_project.png"
         alt="mars_exploration_poster_profile_project"></div>
     <div class="card__content">
-      <h1 class="card__header">Mars Exploration Poster</h1>
+      <h1 class="card__header">Mars Colonization Poster</h1>
       <button class="card__btn"><a href="/mars_exploration_poster">VIEW</a></button>
     </div>
   </article>
