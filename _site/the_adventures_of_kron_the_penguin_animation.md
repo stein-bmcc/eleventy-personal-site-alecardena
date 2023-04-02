@@ -15,7 +15,7 @@ tags:
 </div><!-- end .videoWrapper -->
 
 <div class="project_bio">
-    <h2>The Adventures  of Kron the Penguin Animation</h2>
+    <h2>The Adventures of Kron the Penguin</h2>
      <p>
         2022
         <br>

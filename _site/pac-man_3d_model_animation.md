@@ -15,7 +15,7 @@ tags:
 </div><!-- end .videoWrapper -->
 
 <div class="project_bio">
-    <h2>Pac-man 3D Model Animation</h2>
+    <h2>Pac-man & Ghost Gang 3D Model</h2>
      <p>
         2022
         <br>

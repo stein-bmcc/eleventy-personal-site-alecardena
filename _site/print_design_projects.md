@@ -31,7 +31,7 @@ tags:
     <div class="card__img"><img src="/images/surrealism_poster_profile_project.png"
         alt="surrealism_poster_profile_project"></div>
     <div class="card__content">
-      <h1 class="card__header">Surrealism Postcard</h1>
+      <h1 class="card__header">Surrealism Museum Postcard</h1>
       <button class="card__btn"><a href="/surrealism_postcard">VIEW</a></button>
     </div>
   </article>

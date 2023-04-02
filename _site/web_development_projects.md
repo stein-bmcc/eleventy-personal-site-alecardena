@@ -22,7 +22,7 @@ tags:
     <div class="card__img"><img src="/images/andor_website_profile_picture.png" alt="andor_website_profile_picture">
     </div>
     <div class="card__content">
-      <h1 class="card__header">“Andor” Website</h1>
+      <h1 class="card__header">“Star Wars: Andor” Website</h1>
       <button class="card__btn"><a href="/andor_website">VIEW</a></button>
     </div>
   </article>

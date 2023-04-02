@@ -15,7 +15,7 @@ tags:
 </div><!-- end .videoWrapper -->
 
 <div class="project_bio">
-    <h2>Wooden 3D Model Chess Set Animation</h2>
+    <h2>Wooden 3D Model Chess Set</h2>
      <p>
         2022
         <br>

@@ -12,7 +12,7 @@ tags:
 </div>
 
 <div class="project_bio">
-  <h2>“Andor” Website</h2>
+  <h2>“Star Wars: Andor” Website</h2>
   <p>
       2022
       <br>

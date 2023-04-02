@@ -13,7 +13,7 @@ tags:
 </div>
 
 <div class="project_bio">
-    <h2>Surrealism Postcard</h2>
+    <h2>Surrealism Museum Postcard</h2>
     <p>
         2022
         <br>
