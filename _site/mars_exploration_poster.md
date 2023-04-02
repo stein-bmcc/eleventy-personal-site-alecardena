@@ -13,7 +13,7 @@ tags:
  
  <div class="project_bio">
 
-    <h2>Mars Exploration Poster</h2>
+    <h2>Mars Colonization Poster</h2>
     <p>
         2022
         <br>
