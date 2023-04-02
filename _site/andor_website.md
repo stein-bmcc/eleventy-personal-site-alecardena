@@ -19,15 +19,13 @@ tags:
       Figma, Atom, Github
   </p>
 
-
   <p>
-    For my web design class, I created a website dedicated to the "Andor" series that 
-    I love. The website aims to provide a clear and comprehensive About page and Episodes' 
-    guide for fans of the show. To achieve this, I first prototyped the layout using Figma 
-    and then translated it into a functional web page using HTML, CSS, and JS with Atom. 
-    The design and layout were carefully thought out to enhance the user experience and 
-    create an immersive environment for fans of the show. Check out the link below to see 
-    the working website.
+    For my web design class, I designed and developed a two-page website about the "Star Wars: Andor" 
+    series that I love. The website aims to provide a clear and comprehensive about page and episodes' 
+    guide for fans of the show. To achieve this, I first prototyped the layout using Figma and then 
+    translated it into a functional web page using HTML, CSS, and JS with Atom. The design and layout 
+    were carefully thought out to enhance the user experience and create an immersive environment for 
+    fans of the show. Check out the link below to see the working website.
   </p>
 
   <p>
