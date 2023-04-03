@@ -11,7 +11,6 @@ tags:
     <div class="project_images_2">
         <img src="/images/magazine_cover.png" alt="magazine_cover">
     </div>
-    
         <div class="spread">
             <img src="/images/magazine_spread_1.png" alt="magazine_spread_1">
             <img src="/images/magazine_spread_2.png" alt="magazine_spread_2">
