@@ -8,10 +8,13 @@ tags:
 ---
 
 <div class="project_images">
-    <img src="/images/magazine_cover.jpg" alt="magazine_cover">
+    <div class="project_images_2">
+        <img src="/images/magazine_cover.png" alt="magazine_cover">
+    </div>
+    
         <div class="spread">
-            <img src="/images/magazine_spread_1.jpg" alt="magazine_spread_1">
-            <img src="/images/magazine_spread_2.jpg" alt="magazine_spread_2">
+            <img src="/images/magazine_spread_1.png" alt="magazine_spread_1">
+            <img src="/images/magazine_spread_2.png" alt="magazine_spread_2">
         </div>
  </div>
  
