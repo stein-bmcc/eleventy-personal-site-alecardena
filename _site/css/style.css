@@ -20,7 +20,7 @@ See this page for more info: http://www.paulirish.com/2012/box-sizing-border-box
 /* apply a natural box layout model to all elements, but allowing components to change */
 html {
   box-sizing: border-box;
-  background-color: rgb(221, 236, 250);
+  background-color: #b5bee3;
 }
 
 *,
@@ -81,7 +81,7 @@ h2 {
 
 /*footer css*/
 .site-footer {
-  background: rgb(212, 206, 206);
+  background: #03033a;
   padding: 1em;
 }
 
@@ -100,31 +100,48 @@ h2 {
 
 .back_function a{
   text-decoration: none;
-  color: blue;
+  color: white;
+  display: block;
+  width: 170px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  background-color: #03033a;
+  border-radius: 9rem;
+  border: 0px;
 }
 
 .back_function a:hover{
-  text-decoration: underline;
+  text-decoration: none;
   color: red;
 }
 
 .copyright {
   text-align: center;
+  color: white;
 }
 
 /*resume CSS*/
 .resume_link {
   text-align: center;
-  padding-top: 2em;
+  padding-top: 4em;
 }
 
 .resume_link a{
   text-decoration: none;
-  color: blue;
+  color: white;
+  display: block;
+  width: 240px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  background-color: #03033a;
+  border-radius: 9rem;
+  border: 0px;
 }
 
 .resume_link a:hover{
-  text-decoration: underline;
+  text-decoration: none;
   color: red;
 }
 
@@ -199,7 +216,7 @@ video {
   /* adds space between logo and nav items if the items wrap under the logo */
   justify-content: space-between;
   padding: 1.5rem 2rem;
-  background-color: #0095f8;
+  background-color: #03033a;
   transition: top 500ms ease-in-out;
 
 }
@@ -212,7 +229,7 @@ video {
 }
 
 .logo a:hover {
-  color: white;
+  color: red;
 }
 
 /* CSS Hamburger Icon thanks to Elijah Manor */
@@ -228,7 +245,7 @@ video {
   border-radius: 1px;
   height: 5px;
   width: 35px;
-  background: #000;
+  background: white;
   /*color of hamburger icon */
 
   position: absolute;
@@ -276,7 +293,7 @@ video {
 }
 
 .links a:hover {
-  color: white;
+  color: red;
 }
 
 .links {
@@ -285,7 +302,7 @@ video {
 }
 
 .site-nav a {
-  color: #0f0f0f;
+  color: white;
   text-decoration: none;
   font-size: 0.9rem;
   text-transform: uppercase;
@@ -351,7 +368,7 @@ h2 {
   padding: 1.5rem;
   font-size: 2rem;
   text-align: center;
-  background-color: #0095f8;
+  background-color: #03033a;
   border-radius: 0.4rem;
   border: 0px;
   /*   margin-left: 6px; */
