@@ -23,7 +23,7 @@ tags:
     </div>
     <div class="card__content">
       <h1 class="card__header">“Star Wars: Andor” Website</h1>
-      <button class="card__btn"><a href="/andor_website">VIEW</a></button>
+      <button class="card__btn"><a href="/star_ wars_andor_website">VIEW</a></button>
     </div>
   </article>
 

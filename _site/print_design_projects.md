@@ -23,7 +23,7 @@ tags:
         alt="mars_exploration_poster_profile_project"></div>
     <div class="card__content">
       <h1 class="card__header">Mars Colonization Poster</h1>
-      <button class="card__btn"><a href="/mars_exploration_poster">VIEW</a></button>
+      <button class="card__btn"><a href="/mars_colonization_poster">VIEW</a></button>
     </div>
   </article>
 
@@ -32,7 +32,7 @@ tags:
         alt="surrealism_poster_profile_project"></div>
     <div class="card__content">
       <h1 class="card__header">Surrealism Museum Postcard</h1>
-      <button class="card__btn"><a href="/surrealism_postcard">VIEW</a></button>
+      <button class="card__btn"><a href="/surrealism_museum_postcard">VIEW</a></button>
     </div>
   </article>
 
