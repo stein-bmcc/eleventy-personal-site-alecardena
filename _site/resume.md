@@ -12,6 +12,6 @@ tags:
   <img src="/images/Resume.png" alt="resume-pic">
 </div>
 <div class="resume_link">
-  <a href="https://drive.google.com/file/d/1MRX4HVCa6Wk5nngNoacASQKdC4pRxfmN/view?usp=sharing">Click here for link to
+  <a href="https://drive.google.com/file/d/1ooNFba4N_pqU4T9BnsFbLM40bltOtgvM/view?usp=sharing">Click here for link to
     resume</a></p>
 </div>
