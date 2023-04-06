@@ -6,9 +6,8 @@ tags:
 - Contact
 ---
 
-
 <div class="container">
-    <form action="" method="post" netlify data-netlify-recaptcha="true" id="contact">
+    <form netlify data-netlify-recaptcha="true" id="contact">
         <h3>Contact Form</h3>
         <h4>Feel free to get in touch with me</h4>
         <fieldset>
