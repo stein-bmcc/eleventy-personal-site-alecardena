@@ -27,11 +27,12 @@ tags:
     </p>
 
     <p>
-        For this project in my Multimedia class, I designed a magazine cover and spread featuring 
-        an upcoming Star Wars game. Using InDesign and Photoshop, I carefully selected and edited 
-        images to perfectly capture the essence of the game. The color scheme I chose reflects the 
-        futuristic and sci-fi themes of the game, while the font I used for the main header in the 
-        spread adds to the overall aesthetic. I combined the text and images seamlessly in InDesign, 
+        For this project in my Multimedia class, I designed a magazine cover and 
+        spread featuring an upcoming “Star Wars” game. Using InDesign and Photoshop, 
+        I carefully selected and edited images to perfectly capture the essence of 
+        the game. The color scheme I chose reflects the futuristic and sci-fi themes 
+        of the game, while the font I used for the main header in the spread adds to 
+        the overall aesthetic. I combined the text and images seamlessly in InDesign, 
         resulting in a visually appealing and cohesive layout.
     </p>
     

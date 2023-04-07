@@ -22,13 +22,14 @@ tags:
 
     <p>
         This postcard was created for a hypothetical museum exhibit on Surrealism at the 
-        Museum of Modern Art, as a project for my digital graphic design class. The front 
-        of the postcard features a wall with different paintings hanging on it, representing 
-        the Surrealism time period. To create a realistic effect, the paintings were placed 
-        in frames, and the background of the wall was chosen to resemble a wallpaper style of 
-        the 1920s. The color and font were carefully chosen to fit the time period and enhance 
-        the overall design. The layout was created using InDesign, and the result is a well-crafted 
-        postcard that effectively conveys the message of the museum exhibit.
+        Museum of Modern Art. It was  a project for my Digital Graphic Design class. The 
+        front of the postcard features a wall with different paintings hanging on it, 
+        representing the Surrealist movement. To create a realistic effect, the paintings 
+        were placed in frames, and the background of the wall was chosen to resemble a 
+        wallpaper style of the 1920s. The color and font were carefully chosen to fit the 
+        time period and enhance the overall design. The layout was created using InDesign, 
+        and the result is a well-crafted postcard that effectively conveys the message of 
+        the museum exhibit.
     </p>
 
     <div class="back_function">

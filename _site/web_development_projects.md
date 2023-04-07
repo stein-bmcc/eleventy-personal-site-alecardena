@@ -36,14 +36,4 @@ tags:
     </div>
   </article>
 
-
-  <article class="card">
-    <div class="card__img"><img src="/images/eat_music_website_layout_profile_picture.png"
-        alt="eat_music_website_layout_profile_picture"></div>
-    <div class="card__content">
-      <h1 class="card__header">EAT Music Website Layout</h1>
-      <button class="card__btn"><a href="/eat_music_website_layout">VIEW</a></button>
-    </div>
-  </article>
-
 </section>

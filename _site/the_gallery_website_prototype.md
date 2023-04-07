@@ -20,14 +20,13 @@ tags:
     </p>
 
     <p>
-        In my Multimedia class, I designed a user interface for an e-commerce art 
-        website called "The Gallery" using Figma. My concept was to create a platform 
-        where people can purchase a diverse range of artworks including pottery, 
-        posters, paintings, and more. The website also features artist portfolios 
-        and interactive features to connect customers with the artists. I created a 
-        comprehensive project proposal outlining the development process and created 
-        a prototype, wireframe, and site map using Figma. Check out the link below to 
-        see the complete design and layout.
+        In my Multimedia class, I designed a user interface for an e-commerce art website called 
+        "The Gallery" using Figma. My concept was to create a platform where people can purchase 
+        a diverse range of artworks including pottery, posters, paintings, and more. The website 
+        also features artists’ portfolios and interactive features to connect customers with the 
+        artists. I created a comprehensive project proposal outlining the development process and 
+        created a prototype, wireframe, and site map using Figma. Click on the link below to see 
+        the complete design and layout.
     </p>
 
     <p>
