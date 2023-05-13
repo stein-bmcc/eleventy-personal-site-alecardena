@@ -14,9 +14,11 @@ tags:
   <img src="/images/profile-pic.png" alt="profile-picture">
 </div>
 
-<div class="project_bio">
+<div class="project_text">
   <h2>Bio:</h2>
+</div>
 
+<div class="project_bio">
   <p>
     Hello there! I'm Alejandro Cardena, a New York City native and a first-generation college student. 
     Aspiring to be a UX designer/Front-end developer, I am passionate about designing user-friendly 
@@ -25,9 +27,11 @@ tags:
     aesthetics, but also about creating products that solve real-world problems and make a positive 
     impact on people's lives. Let's connect and collaborate to create something amazing!
   </p>
+</div>
 
-  <h2>Experience & Skills:</h2>
+<h2>Experience & Skills:</h2>
 
+<div class="project_bio">
   <p>
     Throughout my creative journey, I have honed my skills in various software and coding languages. I have 
     a deep understanding of the Adobe Suite and have utilized it to produce captivating photomontages, 

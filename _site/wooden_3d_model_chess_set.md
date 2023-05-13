@@ -8,20 +8,18 @@ tags:
 ---
 
 <div class="videoWrapper ratio-16-9">
-
     <!-- iframe below is Copy & Pasted from YouTube replace with your own -->
     <iframe width="853" height="480" src="/images/wooden_3d_model_chess_set_animation.mp4" frameborder="0" allowfullscreen></iframe>
-
 </div><!-- end .videoWrapper -->
 
-<div class="project_bio">
+<div class="project_text">
     <h2>Wooden 3D Model Chess Set</h2>
      <p>
-        2022
-        <br>
-        Cinema 4D
+        <strong>2022<br>Cinema 4D</strong>
      </p>
+</div>
 
+<div class="project_bio">
     <p>
         I created this beautifully crafted 3D wooden model chess set that I developed as part of my 
         animation class. Utilizing the advanced features of Cinema 4D, I designed this exquisite chess 
@@ -31,8 +29,8 @@ tags:
         board in a stunning 3D environment. Through this project, I have honed my skills in 3D modeling 
         and animation, and I am excited to share the results of my hard work with the world.
     </p>
+</div>
 
-    <div class="back_function">
-        <a href="/animation_projects">Back to Projects</a>
-    </div>
+<div class="back_function">
+    <a href="/animation_projects">Back to Projects</a>
 </div>

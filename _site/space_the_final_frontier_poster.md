@@ -11,14 +11,14 @@ tags:
     <img src="/images/space_the_final_frontier_poster.png" alt="space_the_final_frontier_poster">
  </div>
 
- <div class="project_bio">
+ <div class="project_text">
     <h2>Space: The Final Frontier Poster</h2>
     <p>
-        2022
-        <br>
-        Adobe Photoshop
+        <strong>2022<br>Adobe Photoshop</strong>
     </p>
+</div>
 
+<div class="project_bio">
     <p>
         I created this space-themed poster using a combination of Photoshop techniques. 
         The poster features seven different images: a background, five different planets, 
@@ -33,8 +33,8 @@ tags:
         posters and display material. The result is a visually stunning space-themed poster 
         that would be perfect for any space lover.
     </p>
+</div>
 
-    <div class="back_function">
-        <a href="/print_design_projects">Back to Projects</a>
-    </div>
- </div>
+<div class="back_function">
+    <a href="/print_design_projects">Back to Projects</a>
+</div>

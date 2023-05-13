@@ -11,14 +11,14 @@ tags:
     <img src="/images/the_gallery_website_home_page.png" alt="the_gallery_website_home_page">
  </div>
 
- <div class="project_bio">
+ <div class="project_text">
     <h2>“The Gallery” Website Prototype</h2>
     <p>
-        2022
-        <br>
-        Figma
+        <strong>2022<br>Figma</strong>
     </p>
+</div>
 
+<div class="project_bio">
     <p>
         In my Multimedia class, I designed a user interface for an e-commerce art website called 
         "The Gallery" using Figma. My concept was to create a platform where people can purchase 
@@ -28,12 +28,14 @@ tags:
         created a prototype, wireframe, and site map using Figma. Click on the link below to see 
         the complete design and layout.
     </p>
+</div>
 
+ <div class="project_text">
     <p>
         <strong>Link to Figma: <a href="https://www.figma.com/file/IbqdcRNEottTG2sea2o2JZ/%E2%80%9CThe-Gallery%E2%80%9D-Website-Prototype?node-id=0%3A1&t=Agpu6d1a0aF5SGDa-1">https://www.figma.com/file/IbqdcRNEottTG2sea2o2JZ/%E2%80%9CThe-Gallery%E2%80%9D-Website-Prototype?node-id=0%3A1&t=Agpu6d1a0aF5SGDa-1</a></strong>
     </p>
+</div>
 
-    <div class="back_function">
-        <a href="/web_development_projects">Back to Projects</a>
-    </div>
- </div>
+<div class="back_function">
+    <a href="/web_development_projects">Back to Projects</a>
+</div>

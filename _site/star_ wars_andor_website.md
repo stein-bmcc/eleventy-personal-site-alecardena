@@ -11,14 +11,14 @@ tags:
   <img src="/images/andor_about_page.jpg" alt="andor_about_page">
 </div>
 
-<div class="project_bio">
+<div class="project_text">
   <h2>“Star Wars: Andor” Website</h2>
   <p>
-      2022
-      <br>
-      Figma, Atom, Github
+      <strong>2022<br>Figma, Atom, Github</strong>
   </p>
+</div>
 
+<div class="project_bio">
   <p>
     For my web design class, I designed and developed a two-page website about 
     the "Star Wars: Andor" series that I love. The website aims to provide a 
@@ -29,12 +29,14 @@ tags:
     an immersive environment for fans of the show. Click on the link below to see 
     the working website.
   </p>
+</div>
 
+<div class="project_text">
   <p>
       <strong>Link to Website: <a href="https://alecardena.github.io/mmp240/midterm/index.html">https://alecardena.github.io/mmp240/midterm/index.html</a></strong>  
   </p>
-
-  <div class="back_function">
-    <a href="/web_development_projects">Back to Projects</a>
 </div>
+
+<div class="back_function">
+    <a href="/web_development_projects">Back to Projects</a>
 </div>

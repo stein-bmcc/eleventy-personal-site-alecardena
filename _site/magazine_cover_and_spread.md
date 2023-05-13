@@ -18,14 +18,14 @@ tags:
  </div>
  
 
- <div class="project_bio">
+ <div class="project_text">
     <h2>Magazine Cover & Spread</h2>
     <p>
-    2022
-    <br>
-    Adobe Indesign, Adobe Photoshop
+        <strong>2022<br>Adobe Indesign, Adobe Photoshop</strong>
     </p>
+</div>
 
+<div class="project_bio">
     <p>
         For this project in my Multimedia class, I designed a magazine cover and 
         spread featuring an upcoming “Star Wars” game. Using InDesign and Photoshop, 
@@ -35,8 +35,8 @@ tags:
         the overall aesthetic. I combined the text and images seamlessly in InDesign, 
         resulting in a visually appealing and cohesive layout.
     </p>
+</div>
     
-    <div class="back_function">
-        <a href="/print_design_projects">Back to Projects</a>
-    </div>
+<div class="back_function">
+    <a href="/print_design_projects">Back to Projects</a>
 </div>

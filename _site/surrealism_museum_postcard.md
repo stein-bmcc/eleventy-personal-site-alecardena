@@ -12,14 +12,14 @@ tags:
     <img src="/images/surrealism_postcard_back.png" alt="surrealism_postcard_back">
 </div>
 
-<div class="project_bio">
+<div class="project_text">
     <h2>Surrealism Museum Postcard</h2>
     <p>
-        2022
-        <br>
-        Adobe Indesign
+        <strong>2022<br>Adobe Indesign</strong>
     </p>
+</div>
 
+<div class="project_bio">
     <p>
         This postcard was created for a hypothetical museum exhibit on Surrealism at the 
         Museum of Modern Art. It was  a project for my Digital Graphic Design class. The 
@@ -31,8 +31,8 @@ tags:
         and the result is a well-crafted postcard that effectively conveys the message of 
         the museum exhibit.
     </p>
+</div>
 
-    <div class="back_function">
-        <a href="/print_design_projects">Back to Projects</a>
-    </div>
+<div class="back_function">
+    <a href="/print_design_projects">Back to Projects</a>
 </div>

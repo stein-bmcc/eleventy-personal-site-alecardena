@@ -11,15 +11,14 @@ tags:
     <img src="/images/mars_exploration_poster.png" alt="mars_exploration_poster">
  </div>
  
- <div class="project_bio">
-
+ <div class="project_text">
     <h2>Mars Colonization Poster</h2>
     <p>
-        2022
-        <br>
-        Adobe Illustrator, Adobe Photoshop
+        <strong>2022<br>Adobe Illustrator, Adobe Photoshop</strong>
     </p>
+</div>
 
+<div class="project_bio">
     <p>
         I designed this space-themed poster using a combination of Illustrator and Photoshop. 
         The concept behind the poster was to depict what Mars colonization might look like in 
@@ -31,7 +30,8 @@ tags:
         shades of red. For the font, I selected Bauhaus 93 as it complemented the sci-fi/futuristic 
         feel of the poster.
     </p>
-    <div class="back_function">
-        <a href="/print_design_projects">Back to Projects</a>
-    </div>
- </div>
+</div>
+
+<div class="back_function">
+    <a href="/print_design_projects">Back to Projects</a>
+</div>

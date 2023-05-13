@@ -11,14 +11,14 @@ tags:
     <img src="/images/cuny_design_home_page.png" alt="cuny_design_home_page">
  </div>
 
- <div class="project_bio">
+ <div class="project_text">
     <h2>CUNY Design Website</h2>
     <p>
-        2022
-        <br>
-        Atom, Github, Figma, Adobe Photoshop
+        <strong>2022<br>Atom, Github, Figma, Adobe Photoshop</strong>
     </p>
+</div>
 
+<div class="project_bio">
     <p>
         In my Web Design class, I created a responsive website for CUNY Design, which aims to 
         inform visitors about the various Design-related programs offered by the City University 
@@ -28,12 +28,14 @@ tags:
         users to learn about the different programs, their requirements, and outcomes. Click on 
         the link below to view the website.
     </p>
+</div>
 
+<div class="project_text">
     <p>
         <strong>Link to Website: <a href="https://alecardena.github.io/mmp240/final/index.html ">https://alecardena.github.io/mmp240/final/index.html</a></strong>  
     </p>
+</div>
 
-    <div class="back_function">
-        <a href="/web_development_projects">Back to Projects</a>
-    </div>
- </div>
+<div class="back_function">
+    <a href="/web_development_projects">Back to Projects</a>
+</div>
