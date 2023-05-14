@@ -14,7 +14,7 @@ tags:
     <div class="card__img"><img src="/images/web_development_projects.png" alt="web_development_projects"></div>
     <div class="card__content">
       <h1 class="card__header">“The Gallery” Website Prototype</h1>
-      <button class="card__btn"><a href="/the_gallery_website_prototype">VIEW</a></button>
+      <a href="/the_gallery_website_prototype" button class="card__btn">VIEW</a>
     </div>
   </article>
 
@@ -23,7 +23,7 @@ tags:
     </div>
     <div class="card__content">
       <h1 class="card__header">“Star Wars: Andor” Website</h1>
-      <button class="card__btn"><a href="/star_ wars_andor_website">VIEW</a></button>
+      <a href="/star_ wars_andor_website" button class="card__btn">VIEW</a>
     </div>
   </article>
 
@@ -32,7 +32,7 @@ tags:
         alt="cuny_design_website_profile_picture"></div>
     <div class="card__content">
       <h1 class="card__header">CUNY Design Website</h1>
-      <button class="card__btn"><a href="/cuny_design_website">VIEW</a></button>
+      <a href="/cuny_design_website" button class="card__btn">VIEW</a>
     </div>
   </article>
 

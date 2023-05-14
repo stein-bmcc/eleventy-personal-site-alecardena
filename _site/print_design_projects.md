@@ -14,7 +14,7 @@ tags:
     <div class="card__img"><img src="/images/print_design_projects.png" alt="print_design_projects"></div>
     <div class="card__content">
       <h1 class="card__header">Space: The Final Frontier Poster</h1>
-      <button class="card__btn"><a href="/space_the_final_frontier_poster">VIEW</a></button>
+      <a href="/space_the_final_frontier_poster" button class="card__btn">VIEW</a>
     </div>
   </article>
 
@@ -23,7 +23,7 @@ tags:
         alt="mars_exploration_poster_profile_project"></div>
     <div class="card__content">
       <h1 class="card__header">Mars Colonization Poster</h1>
-      <button class="card__btn"><a href="/mars_colonization_poster">VIEW</a></button>
+      <a href="/mars_colonization_poster" <button class="card__btn">VIEW</a>
     </div>
   </article>
 
@@ -32,7 +32,7 @@ tags:
         alt="surrealism_poster_profile_project"></div>
     <div class="card__content">
       <h1 class="card__header">Surrealism Museum Postcard</h1>
-      <button class="card__btn"><a href="/surrealism_museum_postcard">VIEW</a></button>
+      <a href="/surrealism_museum_postcard" button class="card__btn">VIEW</a>
     </div>
   </article>
 
@@ -41,7 +41,7 @@ tags:
         alt="magazine_cover_and_spread_profile_project"></div>
     <div class="card__content">
       <h1 class="card__header">Magazine Cover & Spread</h1>
-      <button class="card__btn"><a href="/magazine_cover_and_spread">VIEW</a></button>
+      <a href="/magazine_cover_and_spread" button class="card__btn">VIEW</a>
     </div>
   </article>
 

@@ -32,7 +32,7 @@ tags:
 
 <div class="project_text">
     <p>
-        <strong>Link to Website: <a href="https://alecardena.github.io/mmp240/final/index.html ">https://alecardena.github.io/mmp240/final/index.html</a></strong>  
+        <strong>Link to Website: <a href="https://alecardena.github.io/mmp240/final/index.html" target="_blank" rel="noopener noreferrer">https://alecardena.github.io/mmp240/final/index.html</a></strong>  
     </p>
 </div>
 
