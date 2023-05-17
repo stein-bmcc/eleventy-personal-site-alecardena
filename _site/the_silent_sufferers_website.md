@@ -12,7 +12,7 @@ tags:
  </div>
 
  <div class="project_text">
-    <h2>"The Silent Sufferers" Website</h2>
+    <h2>“The Silent Sufferers” Website</h2>
     <p>
         <strong>2023<br>Figma, GitHub Codespaces, Netlify</strong>
     </p>
