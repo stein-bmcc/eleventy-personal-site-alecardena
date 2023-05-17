@@ -29,7 +29,7 @@ tags:
         <strong>Link to Website: <a href="https://the-slient-sufferers.netlify.app/" target="_blank" rel="noopener noreferrer">https://the-slient-sufferers.netlify.app/</a></strong>
     </p>
     <p>
-        <strong>Link to Figma: <a href="https://www.figma.com/file/hdamh03ILh8wZGnHVlmw89/Campaign-and-Merch-Website-Wireframe?type=design&node-id=0%3A1&t=VHQ9FKXBRc5wMlt3-1" target="_blank" rel="noopener noreferrer">https://www.figma.com/file/hdamh03ILh8wZGnHVlmw89/Campaign-and-Merch-Website-Wireframe?type=design&node-id=0%3A1&t=VHQ9FKXBRc5wMlt3-1</a></strong>
+        <strong>Link to Figma: <a href="https://www.figma.com/file/hdamh03ILh8wZGnHVlmw89/Campaign-Website-Wireframe?type=design&t=VHQ9FKXBRc5wMlt3-0" target="_blank" rel="noopener noreferrer">https://www.figma.com/file/hdamh03ILh8wZGnHVlmw89/Campaign-Website-Wireframe?type=design&t=VHQ9FKXBRc5wMlt3-0</a></strong>
     </p>
 </div>
 
