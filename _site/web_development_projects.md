@@ -36,4 +36,13 @@ tags:
     </div>
   </article>
 
+  <article class="card">
+    <div class="card__img"><img src="/images/the_silent_sufferers_profile_picture.png"
+        alt="the_silent_sufferers_profile_picture"></div>
+    <div class="card__content">
+      <h1 class="card__header">The Silent Sufferers Website</h1>
+      <a href="/the_silent_sufferers_website" button class="card__btn">VIEW</a>
+    </div>
+  </article>
+
 </section>
