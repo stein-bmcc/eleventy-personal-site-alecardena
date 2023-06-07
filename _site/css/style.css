@@ -1,0 +1,499 @@
+/*If using Google Fonts or other system to import fonts, then add import CSS for that above on line 1 */
+
+/* They styles in the following are similar to the effect of a reset but have be separated out so that it is easier to add default styles.  These are suggested styles that the designer should change and add to set the typography 
+Much of this is modified from two original sources
+HTML 5 Doctor Reset: http://html5doctor.com/html-5-reset-stylesheet/
+This is in the public domain. It has been modified to remove things redundant with Normalize and separate out styles that may need to be styled separately.
+Normalize.css: git.io/normalize 
+The version modified is: normalize.css v3.0.1 | MIT License
+A few pieces of normalize.css that more directly affected typographic choices (such as font-family) were moved here so normalize.css could be more or less left alone.
+*/
+
+/* ==================================================================== 
+    RESPONSIVE PREPARATION 
+   ==================================================================== 
+   Use these "as is"
+*/
+
+/*The following 7 lines are from Paul Irish and apply a border-box model. 
+See this page for more info: http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
+/* apply a natural box layout model to all elements, but allowing components to change */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Space+Mono&family=Work+Sans&display=swap');
+
+html {
+  box-sizing: border-box;
+  background-color: #b5bee3;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  font-family: 'Montserrat';
+}
+
+main {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  padding: 4em;
+}
+
+h2 {
+  text-align: center;
+  font-size: 32px;
+}
+
+.profile-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2em;
+  text-align: center;
+}
+
+.project_images {
+  text-align: center;
+}
+
+.project_images_2 {
+  width: 100%;
+  margin: auto;
+}
+
+.project_bio{
+  text-indent: 30px;
+  font-size: 18px;
+}
+
+.project_text {
+  text-align: center;
+  padding-top: 1em;
+}
+
+.project_text a{
+  text-decoration: none;
+  color: blue;
+}
+
+.project_text a:hover{
+  text-decoration: underline;
+  color: red;
+}
+
+/*homepage main title*/
+.main_homepage_title h2 {
+  font-size: 25px;
+  font-style: italic;
+}
+
+/*footer css*/
+.site-footer {
+  background: #03033a;
+  padding: 2em;
+}
+
+.footer-icon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 1em;
+  width: 8%;
+  text-align: center;
+}
+
+/* Back button function
+.back_function{
+  padding-top: 2em;
+}
+
+.back_function a{
+  text-decoration: none;
+  color: white;
+  display: block;
+  width: 270px;
+  margin: 0 auto;
+  padding: 1.2rem;
+  text-align: center;
+  background-color: #03033a;
+  border-radius: 9rem;
+}
+
+.back_function a:hover{
+  outline: 2px solid #03033a;  
+  color: #03033a;
+  text-decoration: none;
+  background-color: #b5bee3;
+}
+*/
+
+.collections{
+  text-align: center;
+  padding-top: 2em;
+}
+
+.collections ul{
+  list-style: none;
+}
+
+.collections h1{
+  font-size: 30px;
+}
+
+.collections a{
+  text-decoration: none;
+  color: blue;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.collections a:hover{
+  text-decoration: underline;
+  color: red;
+}
+
+.copyright {
+  text-align: center;
+  color: white;
+}
+
+/*resume CSS*/
+.resume_link {
+  text-align: center;
+  padding-top: 4em;
+}
+
+.resume_link a{
+  text-decoration: none;
+  color: white;
+  display: block;
+  width: 240px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+  background-color: #03033a;
+  border-radius: 9rem;
+  border: 0px;
+}
+
+.resume_link a:hover{
+  text-decoration: none;
+  color: red;
+}
+
+/*grid for eat music project*/
+.surrealism_project_images {
+  display: grid;
+  text-align: center;
+  grid-template-columns: 1fr;
+  gap: 1em;
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+/*grid for eat music project*/
+.eat_music_project_images {
+  display: grid;
+  text-align: center;
+  grid-template-columns: 1fr;
+  gap: 1em;
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+/*grid for magazine cover spread project*/
+.spread {
+  display: grid;
+  text-align: center;
+  grid-template-columns: 1fr;
+  gap: 1em;
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+/* Video CSS */
+.videoWrapper {
+  position: relative;
+  padding-top: 25px;
+  height: 0;
+  clear: both;
+}
+
+.videoWrapper.ratio-16-9 {
+  padding-bottom: 56.25%;
+  /* 16:9 */
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Basic Responsive Images and Video */
+img,
+video {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+/* =========================
+  NAVIGATION STYLING
+  =========================*/
+.site-nav {
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 1rem;
+  /* adds space between logo and nav items if the items wrap under the logo */
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+  background-color: #03033a;
+  transition: top 500ms ease-in-out;
+}
+
+.logo {
+  /* you may change this styling to fit your site*/
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+.logo a:hover {
+  color: #b5bee3;
+}
+
+/* CSS Hamburger Icon thanks to Elijah Manor */
+.hamburger {
+  padding-right: 1rem;
+  position: relative;
+}
+
+.hamburger span,
+.hamburger span:before,
+.hamburger span:after {
+  cursor: pointer;
+  border-radius: 1px;
+  height: 5px;
+  width: 35px;
+  background: white;
+  /*color of hamburger icon */
+
+  position: absolute;
+  display: block;
+  content: '';
+}
+
+.hamburger span {
+  top: 5px;
+}
+
+.hamburger span:before {
+  top: -10px;
+}
+
+.hamburger span:after {
+  bottom: -10px;
+}
+
+.site-nav.scroll-up,
+.site-nav:focus-within {
+  top: 0;
+}
+
+.site-nav.scroll-down {
+  top: -100%;
+}
+
+.links {
+  display: none;
+  height: 0;
+  flex-basis: 100%;
+  text-align: right;
+}
+
+.links.active {
+  display: block;
+  /*   height: auto; */
+}
+
+.links a {
+  display: block;
+  line-height: 1rem;
+  margin: 2rem 0;
+}
+
+.links a:hover {
+  color: #b5bee3;
+}
+
+.links {
+  transition: height .5s ease;
+  overflow: hidden;
+}
+
+.site-nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+/* =========================
+  END OF NAVIGATION STYLING
+  =========================*/
+
+/* =========================
+  CARD STYLING
+  =========================*/
+
+.section-head {
+  text-align: center;
+  font-size: 50px;
+  padding-bottom: .5em;
+}
+
+.grid {
+  display: grid;
+  text-align: center;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+.card {
+  background-color: white;
+  border-radius: 2rem;
+  /*   border: 1px solid grey; */
+  /*   padding: 20px; */
+  overflow: hidden;
+  box-shadow: 8px 5px 30px 0px rgba(0, 0, 0, 0.44);
+  -webkit-box-shadow: 8px 5px 30px 0px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: 8px 5px 30px 0px rgba(0, 0, 0, 0.44);
+}
+
+.card__header{
+  font-size: 26px;
+}
+
+h1,
+h2 {
+  color: black;
+  /*   margin-left: 6px; */
+}
+
+.card__img {
+  display: block;
+  width: 70%;
+  margin: auto;
+  padding-top: 2em;
+  /*   padding: 5px; */
+}
+
+.card__btn {
+  display: block;
+  width: 220px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  font-size: 2rem;
+  text-align: center;
+  background-color: #03033a;
+  border-radius: 90rem;
+  border: 0px;
+  /*   margin-left: 6px; */
+}
+
+.card a {
+  color: white;
+  text-decoration: none;
+}
+
+.card a:hover {
+  color: #03033a;
+  text-decoration: none;
+  background-color: #b5bee3;
+}
+
+.card__content {
+  padding: 0 40px 20px 40px;
+}
+
+/* =========================
+  END OF CARD STYLING
+=========================*/
+
+@media screen and (min-width:600px) {
+  .hamburger {
+    display: none;
+  }
+
+  .links {
+    display: flex;
+    flex-basis: auto;
+    height: auto;
+    margin: 0 -1em;
+  }
+
+  .links a {
+    display: inline-block;
+    margin: 0 1em;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .grid .section-head {
+    grid-column: 1/-1;
+  }
+
+  .profile-pic {
+    width: 40%;
+  }
+
+  .footer-icon {
+    width: 2%;
+  }
+
+  .spread {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .eat_music_project_images {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .surrealism_project_images{
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .main_homepage_title h2 {
+    font-size: 50px;
+  }
+
+  .project_images_2 {
+    width: 80%;
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .grid {
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: 1500px;
+  }
+}
+
+/* ==========================================================================
+     Your CSS
+     You can change this comment and add in your own CSS below
+     ========================================================================== 
+  */
