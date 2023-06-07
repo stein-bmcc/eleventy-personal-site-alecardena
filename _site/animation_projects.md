@@ -3,7 +3,7 @@ title: Animation Projects
 date: Created
 layout: base
 tags:
-- Animation
+- Animations
 - Projects
 ---
 

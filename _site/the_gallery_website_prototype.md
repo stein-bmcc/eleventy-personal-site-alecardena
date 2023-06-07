@@ -3,7 +3,8 @@ title: “The Gallery” Website Prototype
 date: Created
 layout: base
 tags:
-  - Web development
+  - Web 
+  - Development
   - Project
 ---
 
@@ -36,6 +37,11 @@ tags:
     </p>
 </div>
 
-<div class="back_function">
-    <a href="/web_development_projects">Back to Projects</a>
-</div>
+<section class="collections">
+  <h1>Other Web Development Projects</h1>
+  <ul>
+    {% for Web in collections.Web %}      
+      <li><a href="{{Web.url}}">{{Web.data.title}}</a></li>
+    {% endfor %}
+  </ul>
+</section>

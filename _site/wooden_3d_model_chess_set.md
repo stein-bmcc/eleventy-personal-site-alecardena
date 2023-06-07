@@ -31,6 +31,11 @@ tags:
     </p>
 </div>
 
-<div class="back_function">
-    <a href="/animation_projects">Back to Projects</a>
-</div>
+<section class="collections">
+  <h1>Other Animation Projects</h1>
+  <ul>
+    {% for Animation in collections.Animation %}      
+      <li><a href="{{Animation.url}}">{{Animation.data.title}}</a></li>
+    {% endfor %}
+  </ul>
+</section>

@@ -3,7 +3,7 @@ title: Space The Final Frontier Poster
 date: Created
 layout: base
 tags:
-  - Print design
+  - Print
   - Project
 ---
 
@@ -35,6 +35,11 @@ tags:
     </p>
 </div>
 
-<div class="back_function">
-    <a href="/print_design_projects">Back to Projects</a>
-</div>
+<section class="collections">
+  <h1>Other Print Design Projects</h1>
+  <ul>
+    {% for Print in collections.Print %}      
+      <li><a href="{{Print.url}}">{{Print.data.title}}</a></li>
+    {% endfor %}
+  </ul>
+</section>
