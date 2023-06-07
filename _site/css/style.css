@@ -70,6 +70,7 @@ h2 {
 
 .project_text {
   text-align: center;
+  padding-top: 1em;
 }
 
 .project_text a{
@@ -91,7 +92,7 @@ h2 {
 /*footer css*/
 .site-footer {
   background: #03033a;
-  padding: 1em;
+  padding: 2em;
 }
 
 .footer-icon {
@@ -103,6 +104,7 @@ h2 {
   text-align: center;
 }
 
+/* Back button function
 .back_function{
   padding-top: 2em;
 }
@@ -111,20 +113,45 @@ h2 {
   text-decoration: none;
   color: white;
   display: block;
-  width: 170px;
+  width: 270px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1.2rem;
   text-align: center;
   background-color: #03033a;
   border-radius: 9rem;
-  border: 0px;
 }
 
 .back_function a:hover{
-  border: 2px solid #03033a;  
+  outline: 2px solid #03033a;  
   color: #03033a;
   text-decoration: none;
   background-color: #b5bee3;
+}
+*/
+
+.collections{
+  text-align: center;
+  padding-top: 2em;
+}
+
+.collections ul{
+  list-style: none;
+}
+
+.collections h1{
+  font-size: 30px;
+}
+
+.collections a{
+  text-decoration: none;
+  color: blue;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.collections a:hover{
+  text-decoration: underline;
+  color: red;
 }
 
 .copyright {
@@ -217,7 +244,7 @@ video {
 
 /* =========================
   NAVIGATION STYLING
-  =========================  */
+  =========================*/
 .site-nav {
   position: sticky;
   top: 0;
@@ -229,7 +256,6 @@ video {
   padding: 1.5rem 2rem;
   background-color: #03033a;
   transition: top 500ms ease-in-out;
-
 }
 
 .logo {
